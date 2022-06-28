@@ -18,6 +18,6 @@ ML part of this project can be found [here](./notebooks/325_ML.ipynb).
 
 The Web App part of this project can be found in the [app folder](/app).
 
-## Dataset
+## Inspiration
 
-Original dataset from Kaggle: https://www.kaggle.com/fedesoriano/stroke-prediction-dataset.
+Learning @TuringCollege
